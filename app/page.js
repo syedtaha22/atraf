@@ -375,11 +375,11 @@ export default function Page() {
               maxHeight: '80vh',
               bgcolor: 'background.paper',
               boxShadow: 24,
-              // p: 4,
+              p: 4,
               overflowY: 'auto',
               display: 'flex',
               flexDirection: 'column',
-              // gap: 2,
+              gap: 2,
             }}
           >
             <Typography variant="h6" component="h2">
