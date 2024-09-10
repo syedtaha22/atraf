@@ -1,0 +1,37 @@
+Terms of Service
+
+Last Updated: September 10, 2024
+
+These Terms of Service outline the conditions under which you may access and utilize the services offered by ATRAF Private Limited. By accessing or utilizing our services, you consent to adhere to these Terms.
+
+1. Services Offered
+
+ATRAF Private Limited specializes in software development, consulting, and associated services for businesses and clients. The specific services to be rendered will be detailed in a separate agreement between you and ATRAF.
+
+2. User Obligations
+
+   • You agree to utilize our services solely for legitimate purposes and in compliance with these Terms.  
+   • You are responsible for safeguarding the confidentiality of your login information and for all actions taken under your account.
+
+3. Intellectual Property Rights
+
+All intellectual property rights related to our services, including but not limited to software, content, and trademarks, are owned by ATRAF Private Limited or our licensors. You are prohibited from copying, altering, distributing, or creating derivative works from our services without obtaining our written permission.
+
+4. Limitation of Liability
+
+To the fullest extent allowed by law, ATRAF Private Limited shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenue, whether incurred directly or indirectly, or any loss of data, usage, goodwill, or other intangible losses, arising from:
+
+   • Your use or inability to use the services.  
+   • Any unauthorized access to or use of our servers and/or any personal information stored therein.
+
+5. Termination of Services
+
+We reserve the right to terminate or suspend your access to our services at any time, without prior notice or liability, for any reason, including but not limited to a breach of these Terms.
+
+6. Amendments to These Terms
+
+We retain the authority to alter or substitute these Terms at any time. Any modifications will be communicated by publishing the updated Terms on our website. Your ongoing use of the services following any changes signifies your agreement to the revised Terms.
+
+7. Reach Out to Us
+
+Should you have any inquiries or issues regarding these Terms, please reach out to us via email at official.atraf@gmail.com
